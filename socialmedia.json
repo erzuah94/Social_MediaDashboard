@@ -1,0 +1,150 @@
+{
+
+  "socialmedia":
+      [
+        {
+          "name":"facebook",
+          "icon": "img/fb.svg",
+          "logo_color": "#178FF5",
+           "username": "@nathanf",
+          "followers": "1987",
+          "fans":"FOLLOWERS",
+          "num2": "12 Today",
+          "arrow":"path 3.svg"
+          
+        },
+        
+        {
+          "name":"twitter",
+          "icon": "img/twitter.svg",
+          "username": "@nathanf",
+          "followers": "1044", 
+          "fans":"FOLLOWERS",
+          "num2": "99 Today",
+          "arrow":"path 3.svg"
+        
+          
+        },
+  
+  
+        {
+          "name":"IG",
+          "icon": "img/insta.svg",
+          "username": "@nathanf",
+          "followers": "11k",
+          "fans":"FOLLOWERS",
+          "num2": "1099 Today",
+          "arrow":"path 3.svg"
+          
+        },
+        
+        {
+          "name":"youtube",
+      
+          "icon": "img/utube.svg",
+          "username": "@nathanf",
+          "followers": "8239",
+          "fans":"FOLLOWERS",
+          "num2": "144 Today",
+          "textColor": "#DC414C",
+          "arrow":"path 6.svg"
+          
+  
+          
+  }
+  
+  
+  ],
+  
+  
+  
+  "container2":
+      [
+        {
+          "username": "Page View",
+          "icon": "img/fb.svg",
+          "count_digit": "87",
+          "num22": "3%",
+          "arrow":"path 3.svg"
+         
+        },
+  
+  
+        {
+          "username": "Likes",
+          "icon": "img/fb.svg",
+          "count_digit": "52",
+          "num22": "2%",
+          "textColor": "#DC414C",
+          "arrow":"path 6.svg"
+          
+        },
+  
+        {
+          "username": "Likes",
+          "icon": "img/insta.svg",
+          "count_digit": "5462",
+          "num22": "2257%",
+          "arrow":"path 3.svg"
+        
+        },
+  
+        {
+          "username": "Profile Views",
+          "icon": "img/insta.svg",
+          "count_digit": "52k",
+          "num22": "1375%",
+          "arrow":"path 3.svg"
+         
+        },
+  
+        {
+          "username": "Retweet",
+          "icon": "img/twitter.svg",
+          "count_digit": "117",
+          "num22": "30%",
+          "arrow":"path 3.svg"
+         
+        },
+  
+        {
+          "username": "Likes",
+          "icon": "img/twitter.svg",
+          "count_digit": "507",
+          "num22": "553%",
+          "arrow":"path 3.svg"
+         
+        },
+  
+        {
+          "username": "Likes",
+          "icon": "img/utube.svg",
+          "count_digit": "107",
+          "num22": "19%",
+          "textColor": "#DC414C",
+          "arrow":"path 6.svg"
+          
+        },
+  
+        {
+          "username": "Total Views",
+          "icon": "img/utube.svg",
+          "count_digit": "1407",
+          "num22": "12%",
+          "textColor": "#DC414C",
+          "arrow":"path 6.svg"
+  
+          
+  }
+  ]
+  }
+  
+  
+    
+  
+  
+  
+  
+     
+      
+      
