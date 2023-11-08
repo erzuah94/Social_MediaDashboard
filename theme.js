@@ -1,5 +1,6 @@
 
 let darkMode = localStorage.getItem('dark'); 
+console.log(darkMode);
 
 const darkModeToggle = document.querySelector('#toggleDark');
 const body = document.body;
@@ -7,19 +8,19 @@ const lightBtn = 'lightBtn.svg'
 const darkBtn = 'darkBtn.svg'
 
 
-const enableDarkMode = () => {
-    // 1. Add the class to the body
-    document.body.classList.add('dark');
-    // 2. Update darkMode in localStorage
-    localStorage.setItem('darkMode', 'enabled');
-}
+// const enableDarkMode = () => {
+//     // 1. Add the class to the body
+//     document.body.classList.add('dark');
+//     // 2. Update darkMode in localStorage
+//     localStorage.setItem('darkMode', 'enabled');
+// }  
 
-const disableDarkMode = () => {
-    // 1. Remove the class from the body
-    document.body.classList.remove('dark');
-    // 2. Update darkMode in localStorage 
-    localStorage.setItem('darkMode', null);
-}
+// const disableDarkMode = () => {
+//     // 1. Remove the class from the body
+//     document.body.classList.remove('dark');
+//     // 2. Update darkMode in localStorage 
+//     localStorage.setItem('darkMode', null);
+// }
    
   // If the user already visited and enabled darkMode
   // start things off with it onn
@@ -73,7 +74,7 @@ document.addEventListener('DOMContentLoaded', () =>{
    let sectionHTML = "";
    mediaContainer.forEach((banner) => {
      
-     sectionHTML +=`
+     sectionHTML +=` 
  
        <div class = "card" id="${banner.name}">
        <div class="content">
